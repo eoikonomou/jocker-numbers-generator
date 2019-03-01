@@ -1,4 +1,14 @@
 {
+  "homepage": "https://github.com/eusoikonomou/jocker-numbers-generator#readme",
+  "author": "Efstathios Oikonomou <eusoikonomou@gmail.com>",
+  "bugs": {
+    "email": "eusoikonomou@gmail.com",
+    "url": "https://github.com/eusoikonomou/jocker-numbers-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eusoikonomou/jocker-numbers-generator.git"
+  },
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
